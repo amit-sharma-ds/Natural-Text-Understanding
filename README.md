@@ -1,5 +1,5 @@
 # Sentiment Analysis Project Explanation
-# 📦 Amazon Review Sentiment Analyzer
+# 📦 Amazon Review Sentiment Analyze
 
 This project is an **Amazon Review Sentiment Analyzer** that classifies customer reviews as **positive** ✅ or **negative** ❌ using advanced deep learning models like **RNN**, **LSTM**, and **GRU**. The core idea was to intersect AI with different technologies across the stack to build a **robust and efficient sentiment analysis system**.
 
